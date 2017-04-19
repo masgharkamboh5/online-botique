@@ -39,4 +39,4 @@ If you don't have the source folder added do the following
  5. Click Run
  6. Click Clean and Build Project
  
-Now you can have fun and run the application.
+Now you can have fun and run the application. more details about Import and run project please read this [Question](http://stackoverflow.com/questions/17824960/importing-project-into-netbeans)
